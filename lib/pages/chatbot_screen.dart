@@ -35,7 +35,7 @@ class _ChatbotScreenState extends State<ChatbotScreen> {
   //
   // --- IMPORTANT: DO NOT SHARE THIS KEY OR PUSH IT TO GITHUB ---
   //
-  final String _apiKey = "AIzaSyDkBUTrfK81K3aaQPcos2SmE56Z5yL5eNk";
+  final String _apiKey = "API_KEY";
   // -------------------------------------------------------------------------
   //
 
